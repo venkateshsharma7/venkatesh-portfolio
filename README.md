@@ -41,7 +41,7 @@ No JavaScript used.
 
 ## 📷 Screenshots
 
-<img src="assets/preview.png" alt="Portfolio Preview" width="100%" />
+<img src="assets/Screenshot 2026-02-24 161528.png" alt="Portfolio Preview" width="100%" />
 
 ---
 
